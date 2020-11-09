@@ -10,15 +10,15 @@
 비록 학부수업 위주의 요약이지만 GitHub를 작성하면서 SW 공부를 끝까지 포기하지않고 지속할 수 있었습니다.
 
 
-## 교과목형
-- COMP217002 자바프로그래밍 / 2018년 1학기 / 권혜진
-- COME331003 자료구조 / 2018 2학기 / 박대진
-- ELEC323002 마이크로프로세서/ 2019 1학기 / 박대진
-- COMP311004 논리회로설계/ 2019 2학기/ 김찬용
-- COMP312002 운영체제/ 2020 1학기/ 조정훈
+## 교과목형 (과목 링크를 클릭하시면 각 Repository로 이동)
+- [COMP217002 자바프로그래밍 / 2018년 1학기 / 권혜진](https://github.com/Jeongbinheo/2018-1-JAVA-TERMPROJECT)
+- [COME331003 자료구조 / 2018 2학기 / 박대진](https://github.com/Jeongbinheo/2018-2-Data-structure)
+- [ELEC323002 마이크로프로세서/ 2019 1학기 / 박대진](https://github.com/Jeongbinheo/2019-1-Microprocessor)
+- [COMP311004 논리회로설계/ 2019 2학기/ 김찬용](https://github.com/Jeongbinheo/2019-2-VHDL-LogicCircuit-Project)
+- [COMP312002 운영체제/ 2020 1학기/ 조정훈](https://github.com/Jeongbinheo/2020-1-Operating-System)
 
-## 외부참여형
+## 외부참여형 (강의명을 클릭하시면 해당 Repository로 이동)
 - 참여기간: 2019.8.12-2019.8.16
 - 외부기관명: HU University of Applied Sciences Utrecht
-- 강의명: Block chain : Theory and Practice
+- 강의명: [Block chain : Theory and Practice](https://github.com/Jeongbinheo/2019-S-SmartContract-Coding-in-Utrecht-Univ)
 
